@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @VenislavChakarov
 - 👀 I’m interested in Video games, Codeing and Anime
 - 🌱 I’m currently learning Codeing
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
 <!---
