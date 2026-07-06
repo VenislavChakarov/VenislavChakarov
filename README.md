@@ -8,11 +8,7 @@
 
 ## 🧠 Core Skills
 
-<img src="https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=csharp&logoColor=white"/>
-    <img src="https://img.shields.io/badge/-JS-333?style=flat-square&logo=js&logoColor=white"/>
-    <img src="https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=html&logoColor=white"/>
-    <img src="https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=css&logoColor=white"/>
-    <img src="https://img.shields.io/badge/-.NET-333?style=flat-square&logo=dotnet&logoColor=white"/>
+<img src="https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=csharp&logoColor=white"/> <img src="https://img.shields.io/badge/-JS-333?style=flat-square&logo=js&logoColor=white"/> <img src="https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=html&logoColor=white"/> <img src="https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=css&logoColor=white"/> <img src="https://img.shields.io/badge/-.NET-333?style=flat-square&logo=dotnet&logoColor=white"/>
 
 ## 📊 At a Glance
 
