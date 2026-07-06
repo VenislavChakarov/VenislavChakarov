@@ -1,15 +1,29 @@
-<h1 align="center">Hi 👋, I'm Venislav Chakarov</h1>
-<h3 align="center">A passionate .net developer from Bulgaria</h3>
+# Venislav Chkarov
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://instagram.com/venkotoo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="venkotoo" height="30" width="40" /></a>
-<a target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="venkoto" height="30" width="40"</a>
-  venkoto / VENKOTO#1516
-</p>
+**Software Developer** · 📍 Kirkovo · 🏢 
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> </p>
+![Profile Views](https://komarev.com/ghpvc/?username=VenislavChakarov&color=brightgreen&style=flat-square&label=Profile+Views)
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=venislavchakarov&show_icons=true&locale=en&layout=compact" alt="venislavchakarov" /></p>
+> A passionate developer.
 
+## 🧠 Core Skills
+
+<img src="https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=csharp&logoColor=white"/>
+    <img src="https://img.shields.io/badge/-JS-333?style=flat-square&logo=js&logoColor=white"/>
+    <img src="https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=html&logoColor=white"/>
+    <img src="https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=css&logoColor=white"/>
+    <img src="https://img.shields.io/badge/-.NET-333?style=flat-square&logo=dotnet&logoColor=white"/>
+
+## 📊 At a Glance
+
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=VenislavChakarov&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117)
+
+</div>
+
+## 📬 Get in Touch
+
+I'm open to new opportunities. Reach me here:
+
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:chakarovv11@gmai.com) [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/VenislavChakarov)
